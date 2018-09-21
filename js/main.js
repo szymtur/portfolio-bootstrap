@@ -2,6 +2,7 @@ $(document).ready(function(){
     scrolled();
     smoothScroll();
     closeNavMenu();
+    scrollTop();
     
 });
 
@@ -39,6 +40,16 @@ function smoothScroll(){
 function closeNavMenu(){
     $('.navbar-nav li a').click(function(){ 
         $('.navbar-collapse').collapse('hide');
+    });
+}
+
+function scrollTop(){
+    let buttonSubmit = $('input[type="submit"]');
+
+    buttonSubmit.on('click', function(event){
+        event.preventDefault();
+        $('html, body').animate({scrollTop: 0}, 1500, 'linear');
+        return false;
     });
 }
 
