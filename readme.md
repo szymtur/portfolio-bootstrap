@@ -6,7 +6,7 @@
 [https://szymtur.github.io/portfolio-bootstrap](https://szymtur.github.io/portfolio-bootstrap)
 
 ### Description:
-Reflected layout of the website.
+Bootstrap Workshop.
 
 ### Technologies used:
 - HTML5
