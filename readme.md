@@ -6,7 +6,7 @@
 [https://szymtur.github.io/portfolio-bootstrap](https://szymtur.github.io/portfolio-bootstrap)
 
 ### Description:
-Bootstrap Workshop.
+Responsive Web Designing Using Bootstrap Workshop.
 
 ### Technologies used:
 - HTML5
