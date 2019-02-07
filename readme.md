@@ -2,13 +2,13 @@
 
 ![](img/layout/layout.png)
 
-###Link:
+### Link:
 [https://szymtur.github.io/portfolio-bootstrap](https://szymtur.github.io/portfolio-bootstrap)
 
-###Description:
+### Description:
 Reflected layout of the website.
 
-###Technologies used:
+### Technologies used:
 - HTML5
 - CSS3
 - Bootstrap
