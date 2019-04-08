@@ -3,7 +3,6 @@ $(document).ready(function(){
     smoothScroll();
     closeNavMenu();
     scrollTop();
-    
 });
 
 $(window).scroll(function(){
